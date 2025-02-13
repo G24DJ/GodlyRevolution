@@ -46,7 +46,7 @@ export const tours = [
     id:1,
     image: tour4,
     date:'January 20th, 2025',
-    title:'The Journey to Faith',
+    title:'The Adventure of Faith',
     info:'join the unforgettable journey to Faith',
     location:'Your Church',
     duration: 7,
