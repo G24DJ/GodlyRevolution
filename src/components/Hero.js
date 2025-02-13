@@ -6,7 +6,7 @@ export const Hero = () => {
       <div className="hero-banner">
         <h1>Godly Revolution</h1>
         <p>
-          This cry of the Righteous calling for a Godly Revolution
+          The cry of the Righteous calling for a Godly Revolution
         </p>
         <a href="#tours" className="btn hero-btn">Make the World a better Place</a>
       </div>
